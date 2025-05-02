@@ -17,4 +17,4 @@ tags:
 
 **Зарплати:** [![2013 - 2](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/2013-2.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/2013-2.jpg)
 
-**І список боржників:** [![2013 - 3](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/2013-3-944x1024.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/2013-3.jpg)
+**І список боржників:** [![2013 - 3](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/2013-3.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/2013-3.jpg)
