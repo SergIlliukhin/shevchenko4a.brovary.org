@@ -9,7 +9,7 @@ tags:
   - "прокуратура"
 ---
 
-![Письмо в прокуратуру](http://shevchenko4a.brovary.org/wp-content/uploads/2010/02/pismo.jpg "Письмо в прокуратуру")Дорогие товарищи!
+![Письмо в прокуратуру](/wp-content/uploads/2010/02/pismo.jpg "Письмо в прокуратуру")Дорогие товарищи!
 
 Спешу сообщить, что письмо в прокуратуру, которое мы несколько недель [все вместе составляли](http://shevchenko4a.brovary.org/kollektivnoe-pismo-v-prokuraturu/), готово!
 

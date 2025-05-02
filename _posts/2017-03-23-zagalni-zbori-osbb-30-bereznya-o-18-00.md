@@ -9,10 +9,10 @@ categories:
 
 Пропонується підвищити тариф до 2,91 (перший поверх) та 3,40 інші поверхи
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2017/03/Untitled1.png)
+![](/wp-content/uploads/2017/03/Untitled1.png)
 
  
 
 Кошторис і розрахунок тарифу
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2017/03/Untitled2.png)](http://shevchenko4a.brovary.org/wp-content/uploads/2017/03/Untitled2.png)
+[![](/wp-content/uploads/2017/03/Untitled2.png)](/wp-content/uploads/2017/03/Untitled2.png)

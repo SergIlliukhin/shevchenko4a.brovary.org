@@ -16,7 +16,7 @@ tags:
 
 Теперь по ночам Наш Дом выглядит нeмного веселее:
 
-[![Наша Первая Победа](http://shevchenko4a.brovary.org/wp-content/uploads/2009/10/OurFirstVictory.jpg "Наша Первая Победа")](http://shevchenko4a.brovary.org/our-first-victory)<!--more--> 
+[![Наша Первая Победа](/wp-content/uploads/2009/10/OurFirstVictory.jpg "Наша Первая Победа")](http://shevchenko4a.brovary.org/our-first-victory)<!--more--> 
 
 <script type="text/javascript"> $(document).ready(function() { $("#imgVictory").hide(); $("#container").pwi({ username: 'shevchenko4a.brovary.org', mode: 'album', album: 'OurFirstVictory', thumbSize: 144, showAlbumDescription: false }); });</script>
 

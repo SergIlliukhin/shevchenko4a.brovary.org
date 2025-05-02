@@ -10,4 +10,4 @@ tags:
 
 11 січня 2014 року о 14:00 відбудуться загальні збори членів ОСББ "Шевченко 4 А".
 
-[![Запрошення на збори](http://shevchenko4a.brovary.org/wp-content/uploads/2014/01/IMAG0343.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2014/01/IMAG0343.jpg)
+[![Запрошення на збори](/wp-content/uploads/2014/01/IMAG0343.jpg)](/wp-content/uploads/2014/01/IMAG0343.jpg)

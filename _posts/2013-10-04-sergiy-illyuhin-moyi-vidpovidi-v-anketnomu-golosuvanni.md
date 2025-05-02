@@ -9,7 +9,7 @@ tags:
   - "осбб"
 ---
 
-[![СергійІллюхінДемАльянс](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/SergiyIllyuhinDemAlyans.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/SergiyIllyuhinDemAlyans.jpg)**Сергій Іллюхін:**
+[![СергійІллюхінДемАльянс](/wp-content/uploads/2013/10/SergiyIllyuhinDemAlyans.jpg)](/wp-content/uploads/2013/10/SergiyIllyuhinDemAlyans.jpg)**Сергій Іллюхін:**
 
 _Я вважаю, що жодних таємних домовленостей або змов у нашому ОСББ не має бути, а тому відповіді на поставлені правлінням ОСББ питяння я публікую у відкритому доступі. До кожної своєї відповіді я написав коментар, який обґрунтовує та пояснює мою позицію з конкретного питання._ Сподіваюсь на аналогічну відкритість від інших мешканців будинку, щоб краще зрозуміти хто і чому голосує ЗА або ПРОТИ конкретної пропозиції.
 
@@ -21,4 +21,4 @@ _Я вважаю, що жодних таємних домовленостей а
 
 Всі відповіді та пояснення у сканах моєї анкети нижче: <!--more-->
 
-[![a1](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a1.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a1.jpg) [![a2](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a2.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a2.jpg) [![a3](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a3.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a3.jpg) [![a4](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a4.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a4.jpg) [![a5](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a5.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/a5.jpg)
+[![a1](/wp-content/uploads/2013/10/a1.jpg)](/wp-content/uploads/2013/10/a1.jpg) [![a2](/wp-content/uploads/2013/10/a2.jpg)](/wp-content/uploads/2013/10/a2.jpg) [![a3](/wp-content/uploads/2013/10/a3.jpg)](/wp-content/uploads/2013/10/a3.jpg) [![a4](/wp-content/uploads/2013/10/a4.jpg)](/wp-content/uploads/2013/10/a4.jpg) [![a5](/wp-content/uploads/2013/10/a5.jpg)](/wp-content/uploads/2013/10/a5.jpg)

@@ -9,7 +9,7 @@ tags:
   - "otchet"
 ---
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg "32593")Опубліковано [фінансові показники](http://shevchenko4a.brovary.org/buhgalteriya-osbb/) за січень 2013 року.
+![](/wp-content/uploads/2012/10/32593.jpg "32593")Опубліковано [фінансові показники](http://shevchenko4a.brovary.org/buhgalteriya-osbb/) за січень 2013 року.
 
 Надходження: **13125,66 грн** Витрати: **[12814,75 грн](http://shevchenko4a.brovary.org/buhgalteriya-osbb/rashody-osbb/)** Залишок на кінець місяця: **5777,74 грн**
 
@@ -23,8 +23,8 @@ tags:
 
 У січні спостерігається від'ємна динаміка рівню заборгованості - заборгованість зменшилась по всім під'їздам і по будинку в цілому:
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2013/02/borg2.jpg)
+![](/wp-content/uploads/2013/02/borg2.jpg)
 
  
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2013/02/borg1.jpg)
+![](/wp-content/uploads/2013/02/borg1.jpg)

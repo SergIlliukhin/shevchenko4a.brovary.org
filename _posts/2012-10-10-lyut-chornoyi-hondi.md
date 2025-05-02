@@ -19,8 +19,8 @@ tags:
 
 Напевно, пан Сергій вважає, що стовпчики ставились для всіх водіїв, окрім нього, а для нього їх можна і повиривати. Просимо небайдужих мешканців долучитися до даної ситуації та організовано знайти методи впливу на даного порушника.
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/IMAG1409.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/IMAG1409.jpg)
+[![](/wp-content/uploads/2012/10/IMAG1409.jpg)](/wp-content/uploads/2012/10/IMAG1409.jpg)
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/IMAG1418.jpg "IMAG1418")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/IMAG1418.jpg)
+[![](/wp-content/uploads/2012/10/IMAG1418.jpg "IMAG1418")](/wp-content/uploads/2012/10/IMAG1418.jpg)
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/IMAG1416.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/IMAG1416.jpg)
+[![](/wp-content/uploads/2012/10/IMAG1416.jpg)](/wp-content/uploads/2012/10/IMAG1416.jpg)

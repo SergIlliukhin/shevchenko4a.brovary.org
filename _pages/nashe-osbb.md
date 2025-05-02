@@ -21,7 +21,7 @@ date: 2010-06-15
 
 > \* **Билобородый Владимир Андреевич** (тел. 067-404-78-70) - Председатель Правления;
 > 
-> **Email-адрес** Правления ОСББ: [![mailto:osbb](http://shevchenko4a.brovary.org/wp-content/uploads/2010/06/osbb2.png "mailto:osbb")](osbb#)
+> **Email-адрес** Правления ОСББ: [![mailto:osbb](/wp-content/uploads/2010/06/osbb2.png "mailto:osbb")](osbb#)
 
 ### Вестник ОСББ
 

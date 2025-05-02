@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/06/Zamina.jpg "Заміна")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/06/Zamina.jpg)Шановні мешканці!
+[![](/wp-content/uploads/2012/06/Zamina.jpg "Заміна")](/wp-content/uploads/2012/06/Zamina.jpg)Шановні мешканці!
 
 Повідомляємо, що рішенням правління ОСББ "Шевченко 4-А" від 09.06.2012 вирішено з 11 червня 2012 року надати відпустку голові правління Шафоростову В.Д. за 2010/2011 рр. згідно поданої заяви.
 

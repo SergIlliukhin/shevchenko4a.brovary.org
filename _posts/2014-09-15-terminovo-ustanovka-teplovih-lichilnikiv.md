@@ -19,4 +19,4 @@ tags:
 
 > **16.09.2014 о 19:00 відбудеться зустріч з мешканцями будинку. Можна буде з'ясувати всі питання особисто**
 
-[![www](http://shevchenko4a.brovary.org/wp-content/uploads/2014/09/www.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2014/09/www.jpg)
+[![www](/wp-content/uploads/2014/09/www.jpg)](/wp-content/uploads/2014/09/www.jpg)

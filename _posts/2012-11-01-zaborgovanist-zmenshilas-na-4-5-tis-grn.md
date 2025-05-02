@@ -7,7 +7,7 @@ tags:
   - "должники"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/zadoljenost.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/zadoljenost.jpg)Заборгованість станом на 1 листопада 2012 року зменшилась на 4,5 тис.грн. і складає **27740.09 грн**.
+[![](/wp-content/uploads/2012/10/zadoljenost.jpg)](/wp-content/uploads/2012/10/zadoljenost.jpg)Заборгованість станом на 1 листопада 2012 року зменшилась на 4,5 тис.грн. і складає **27740.09 грн**.
 
 В основному заборгованість [погасили мешканці під'їзду №2](http://shevchenko4a.brovary.org/buhgalteriya-osbb/podyezdy-dolzhniki/).
 

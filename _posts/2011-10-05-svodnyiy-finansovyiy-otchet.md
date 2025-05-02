@@ -8,7 +8,7 @@ tags:
   - "финансы"
 ---
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2011/10/byudjet.jpg "Бюджет ОСББ")С этого месяца вся информация о финансовой деятельности ОСББ вынесена на отдельные страницы, которые будут ежемесячно обновляться: \* [Движение денежных средств ОСББ](http://shevchenko4a.brovary.org/buhgalteriya-osbb/ "Бухгалтерия"); \* [Расходы ОСББ](http://shevchenko4a.brovary.org/buhgalteriya-osbb/rashody-osbb/ "Расходы"); \* [Должники ОСББ](http://shevchenko4a.brovary.org/buhgalteriya-osbb/dolzhniki-osbb/ "Должники"); \* [Задолженность по подъездам](http://shevchenko4a.brovary.org/buhgalteriya-osbb/podyezdy-dolzhniki/ "Подъезды-должники");
+![](/wp-content/uploads/2011/10/byudjet.jpg "Бюджет ОСББ")С этого месяца вся информация о финансовой деятельности ОСББ вынесена на отдельные страницы, которые будут ежемесячно обновляться: \* [Движение денежных средств ОСББ](http://shevchenko4a.brovary.org/buhgalteriya-osbb/ "Бухгалтерия"); \* [Расходы ОСББ](http://shevchenko4a.brovary.org/buhgalteriya-osbb/rashody-osbb/ "Расходы"); \* [Должники ОСББ](http://shevchenko4a.brovary.org/buhgalteriya-osbb/dolzhniki-osbb/ "Должники"); \* [Задолженность по подъездам](http://shevchenko4a.brovary.org/buhgalteriya-osbb/podyezdy-dolzhniki/ "Подъезды-должники");
 
 В сентябре 2011 года на счет поступило **15288.82 грн**, потрачено **16722.68 грн**. Начиная с сентября мы начали платить за лифты (около 1900грн), также заплатили за поверку теплового счетчика (около 3900грн).
 

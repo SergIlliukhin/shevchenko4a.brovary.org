@@ -7,4 +7,4 @@ categories:
 
 Друзі, по нашому будинку нещодавно почали лазити дрібні злодюжки. На фото - речі, накрадені у мешканців 4 під'їзду. Злодіїв хтось злякав і вони залишили їх на сходах на 7 поверсі. Якщо хтось впізнає свої речі - будь ласка, підходьте та забирайте #крадіжки #бровари
 
-[![Самокат](http://shevchenko4a.brovary.org/wp-content/uploads/2014/06/unnamed.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2014/06/unnamed.jpg)
+[![Самокат](/wp-content/uploads/2014/06/unnamed.jpg)](/wp-content/uploads/2014/06/unnamed.jpg)

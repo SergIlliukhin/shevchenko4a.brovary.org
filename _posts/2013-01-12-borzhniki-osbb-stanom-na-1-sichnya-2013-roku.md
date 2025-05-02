@@ -8,7 +8,7 @@ tags:
   - "осбб"
 ---
 
-[![Наш ответ должникам](http://shevchenko4a.brovary.org/wp-content/uploads/2010/10/pechkin.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2010/10/pechkin.jpg)Оновлено [список боржників](http://shevchenko4a.brovary.org/buhgalteriya-osbb/dolzhniki-osbb/) станом на 1 січня 2013 року.
+[![Наш ответ должникам](/wp-content/uploads/2010/10/pechkin.jpg)](/wp-content/uploads/2010/10/pechkin.jpg)Оновлено [список боржників](http://shevchenko4a.brovary.org/buhgalteriya-osbb/dolzhniki-osbb/) станом на 1 січня 2013 року.
 
 У грудні 2012 року рівень оплати склав 95.4%, загальна заборгованість по будинку збільшилась на 1 тис грн і складає **29157,50 грн.**
 

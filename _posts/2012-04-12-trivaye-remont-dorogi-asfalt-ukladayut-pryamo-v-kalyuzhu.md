@@ -17,4 +17,4 @@ tags:
 
 Фотографії з місця подій (до і після): <!--more-->
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0295.jpg "IMAG0295")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0295.jpg)[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0297.jpg "IMAG0297")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0297.jpg)[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0300.jpg "IMAG0300")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0300.jpg)[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0863.jpg "IMAG0863")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/IMAG0863.jpg)
+[![](/wp-content/uploads/2012/04/IMAG0295.jpg "IMAG0295")](/wp-content/uploads/2012/04/IMAG0295.jpg)[![](/wp-content/uploads/2012/04/IMAG0297.jpg "IMAG0297")](/wp-content/uploads/2012/04/IMAG0297.jpg)[![](/wp-content/uploads/2012/04/IMAG0300.jpg "IMAG0300")](/wp-content/uploads/2012/04/IMAG0300.jpg)[![](/wp-content/uploads/2012/04/IMAG0863.jpg "IMAG0863")](/wp-content/uploads/2012/04/IMAG0863.jpg)

@@ -7,7 +7,7 @@ tags:
   - "водоснабжение"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/06/IMAG1104.jpg "Оголошення")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/06/IMAG1104.jpg)Увага!
+[![](/wp-content/uploads/2012/06/IMAG1104.jpg "Оголошення")](/wp-content/uploads/2012/06/IMAG1104.jpg)Увага!
 
 "Броваритепловодоенергія" попереджає: з 5 липня по 4 серпня 2012 року відбудеться профілактичне відключення гарячої води у нашому будинку!
 

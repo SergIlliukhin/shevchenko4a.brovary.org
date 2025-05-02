@@ -7,7 +7,7 @@ tags:
   - "интернет"
 ---
 
-![Beeline Бровары](http://shevchenko4a.brovary.org/wp-content/uploads/2009/12/beeline.jpg "Beeline Бровары")Тема интернета в нашем доме уже [обсуждалась на сайте](http://shevchenko4a.brovary.org/internet/) раньше.
+![Beeline Бровары](/wp-content/uploads/2009/12/beeline.jpg "Beeline Бровары")Тема интернета в нашем доме уже [обсуждалась на сайте](http://shevchenko4a.brovary.org/internet/) раньше.
 
 Сейчас вот я сижу и в очередной раз наслаждаюсь "замечательной" скоростью интернета и локальной сети от **"Бравопорта"**: скорость - закачаешься, почти модемная.
 

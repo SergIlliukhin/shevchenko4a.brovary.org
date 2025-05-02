@@ -9,7 +9,7 @@ tags:
   - "финансы"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/photo.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/photo.jpg)Станом на 1 вересня 2012 року розмір заборгованості мешканців зі сплати членських внесків до ОСББ становить **30892.82 грн**, що складає майже 3 місячних бюджети нашого ОСББ.
+[![](/wp-content/uploads/2012/09/photo.jpg)](/wp-content/uploads/2012/09/photo.jpg)Станом на 1 вересня 2012 року розмір заборгованості мешканців зі сплати членських внесків до ОСББ становить **30892.82 грн**, що складає майже 3 місячних бюджети нашого ОСББ.
 
 Повний перелік боржників [можна переглянути за посиланням](http://shevchenko4a.brovary.org/buhgalteriya-osbb/dolzhniki-osbb/).
 
@@ -19,6 +19,6 @@ tags:
 
 Порівняння розміру заборгованості між під'їздами та динаміку зміни загальної заборгованості по будинку [знаходиться тут](http://shevchenko4a.brovary.org/buhgalteriya-osbb/podyezdy-dolzhniki/).
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/borg.png)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/borg.png)
+[![](/wp-content/uploads/2012/09/borg.png)](/wp-content/uploads/2012/09/borg.png)
 
 Звіт про витрати коштів можна переглянути на сторінці ["Витрати ОСББ"](http://shevchenko4a.brovary.org/buhgalteriya-osbb/rashody-osbb/) Порівняльний аналіз надходжень та витрат ОСББ знаходиться у розділі ["Бухгалтерія ОСББ"](http://shevchenko4a.brovary.org/buhgalteriya-osbb/)

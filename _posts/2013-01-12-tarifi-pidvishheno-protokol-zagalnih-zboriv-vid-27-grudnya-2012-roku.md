@@ -22,8 +22,8 @@ tags:
 
 До протоколу додається підписний лист з підписами мешканців кв.№№ 1, 2, 3, 4, 5, 7, 9, 12, 14, 16, 17, 18, 19, 23, 26, 27, 30, 31, 32, 35, 37, 38, 39, 42, 43, 45, 48, 50, 51, 54, 55, 56, 58, 59, 60, 61, 62, 66, 68, 69, 71, 72, 75, 76, 79, 82, 83, 86, 87, 88, 91, 92, 95, 98, 100, 101, 103, 104, 105, 107
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2013/01/p1.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/01/p1.jpg)
+[![](/wp-content/uploads/2013/01/p1.jpg)](/wp-content/uploads/2013/01/p1.jpg)
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2013/01/p2.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/01/p2.jpg)
+[![](/wp-content/uploads/2013/01/p2.jpg)](/wp-content/uploads/2013/01/p2.jpg)
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2013/01/kosht.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/01/kosht.jpg)
+[![](/wp-content/uploads/2013/01/kosht.jpg)](/wp-content/uploads/2013/01/kosht.jpg)
