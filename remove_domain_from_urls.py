@@ -3,14 +3,31 @@ import re
 from pathlib import Path
 
 def remove_domain_from_urls(content):
-    # Pattern to match image URLs with domain
-    pattern = r'http://shevchenko4a\.brovary\.org(/wp-content/uploads/\d{4}/\d{2}/[^-\s]+(?:-\d+x\d+)?\.(?:jpg|jpeg|png|gif))'
+    # First handle Markdown image syntax with dimensions
+    markdown_pattern = r'\[!\[\]\((http://shevchenko4a\.brovary\.org/wp-content/uploads/\d{4}/\d{2}/[^)\s]+?)-\d+x\d+(\.[^)]+)\)\]\((http://shevchenko4a\.brovary\.org/wp-content/uploads/\d{4}/\d{2}/[^)\s]+?)(?:-\d+x\d+)?(\.[^)]+)\)'
     
-    # Replace URLs with domain with relative URLs
+    def replace_markdown(match):
+        path = match.group(1) + match.group(2)
+        path = path.replace('http://shevchenko4a.brovary.org', '')
+        return f'[![]({path})]({path})'
+    
+    content = re.sub(markdown_pattern, replace_markdown, content)
+    
+    # Then handle direct URLs
+    url_pattern = r'http://shevchenko4a\.brovary\.org(/wp-content/uploads/\d{4}/\d{2}/[^"\s]+?)-\d+x\d+(\.[^"\s]+)'
+    
     def replace_url(match):
+        return match.group(1) + match.group(2)
+    
+    content = re.sub(url_pattern, replace_url, content)
+    
+    # Finally handle any remaining domain references
+    domain_pattern = r'http://shevchenko4a\.brovary\.org(/wp-content/uploads/[^"\s]+)'
+    
+    def replace_domain(match):
         return match.group(1)
     
-    return re.sub(pattern, replace_url, content)
+    return re.sub(domain_pattern, replace_domain, content)
 
 def process_markdown_files(directory):
     for file_path in Path(directory).glob('*.md'):

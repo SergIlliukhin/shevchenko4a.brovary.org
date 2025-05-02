@@ -8,7 +8,7 @@ tags:
   - "осбб"
 ---
 
-[![anket-cheker](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/anket-cheker-300x198.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/10/anket-cheker.jpg)**На [минулих зборах](http://shevchenko4a.brovary.org/rezultati-zboriv-19-veresnya/ "Результати зборів 19 вересня") домовились, що мешканцям будинку (чи то членам ОСББ?) буде вручено анкети і таким чином буде здійснене голосування щодо важливих питаннь, які стосуються діяльності нашого ОСББ.**
+[![anket-cheker](/wp-content/uploads/2013/10/anket-cheker.jpg)](/wp-content/uploads/2013/10/anket-cheker.jpg)**На [минулих зборах](http://shevchenko4a.brovary.org/rezultati-zboriv-19-veresnya/ "Результати зборів 19 вересня") домовились, що мешканцям будинку (чи то членам ОСББ?) буде вручено анкети і таким чином буде здійснене голосування щодо важливих питаннь, які стосуються діяльності нашого ОСББ.**
 
 Незважаючи на те, що домовлялись ми складати питання разом, організатори опитування вирішили зробити це власноруч.
 

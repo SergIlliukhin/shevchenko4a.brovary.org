@@ -7,7 +7,7 @@ tags:
   - "меркурий"
 ---
 
-![Лапша](http://shevchenko4a.brovary.org/wp-content/uploads/2010/04/dsk-merkuriy.jpg "Лапша")Сегодня мы получили от ДСК "Меркурий" очередную порцию лапши официальный ответ на наше [коллективное письмо в прокуратуру](http://shevchenko4a.brovary.org/kolektyvne-zvernennya-official-text/).
+![Лапша](/wp-content/uploads/2010/04/dsk-merkuriy.jpg "Лапша")Сегодня мы получили от ДСК "Меркурий" очередную порцию лапши официальный ответ на наше [коллективное письмо в прокуратуру](http://shevchenko4a.brovary.org/kolektyvne-zvernennya-official-text/).
 
 В нем все размыто и неясно: наши жалобы **частично** подтверждены и часть из них (а что конкретно?) будет исправлена.
 

@@ -7,7 +7,7 @@ tags:
   - "интернет"
 ---
 
-![SkyNet или Brovis](http://shevchenko4a.brovary.org/wp-content/uploads/2010/08/SkyNet-vs-Brovis.jpg "SkyNet или Brovis")Как я и обещал раньше, хочу поделиться своими впечатлениями от работы в сети [Sky.Net](http://sky-net.com.ua/), которая с недавнего времени [предоставляет услуги интернета](http://shevchenko4a.brovary.org/internet-ot-sky-net/) в нашем доме.
+![SkyNet или Brovis](/wp-content/uploads/2010/08/SkyNet-vs-Brovis.jpg "SkyNet или Brovis")Как я и обещал раньше, хочу поделиться своими впечатлениями от работы в сети [Sky.Net](http://sky-net.com.ua/), которая с недавнего времени [предоставляет услуги интернета](http://shevchenko4a.brovary.org/internet-ot-sky-net/) в нашем доме.
 
 Основным конкурентом по качеству интернета в нашем доме является [Brovis.Net](http://brovis.net.ua), поэтому свое сравнение я буду делать в контексте этих двух провайдеров.
 

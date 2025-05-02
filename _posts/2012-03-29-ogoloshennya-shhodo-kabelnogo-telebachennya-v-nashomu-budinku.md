@@ -7,7 +7,7 @@ tags:
   - "тв"
 ---
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/03/kabelne-Maxi-TV.jpg "кабельне Maxi TV")Як повідомляють [представники MaxiTV](http://shevchenko4a.brovary.org/kabelnoye-televideniye-maxitv/ "Кабельне Бровари") (наразі це єдиний постачальник кабельного ТБ в нашому будинку), змінився (розширився) перелік каналів, що ретранслюються.
+![](/wp-content/uploads/2012/03/kabelne-Maxi-TV.jpg "кабельне Maxi TV")Як повідомляють [представники MaxiTV](http://shevchenko4a.brovary.org/kabelnoye-televideniye-maxitv/ "Кабельне Бровари") (наразі це єдиний постачальник кабельного ТБ в нашому будинку), змінився (розширився) перелік каналів, що ретранслюються.
 
 Викладаємо оновлений перелік, наданий кабельним оператором:
 

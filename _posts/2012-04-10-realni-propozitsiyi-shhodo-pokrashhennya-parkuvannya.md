@@ -11,6 +11,6 @@ tags:
 
 **План прибудинкової території з розмірами**
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/Plan-pridomovoy-territorii-SHevchenko-4a.jpg "План придомовой территории Шевченко 4а")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/Plan-pridomovoy-territorii-SHevchenko-4a.jpg)
+[![](/wp-content/uploads/2012/04/Plan-pridomovoy-territorii-SHevchenko-4a.jpg "План придомовой территории Шевченко 4а")](/wp-content/uploads/2012/04/Plan-pridomovoy-territorii-SHevchenko-4a.jpg)
 
 <!--more Відповісти »-->

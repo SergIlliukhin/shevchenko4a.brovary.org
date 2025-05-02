@@ -8,7 +8,7 @@ tags:
   - "парковка"
 ---
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/reserved-parking-01.jpg)[Кошторис підготували](http://shevchenko4a.brovary.org/proekt-koshtorisu-na-2013-rik/ "Проект кошторису на 2013 рік"), [документи для РЕСу](http://shevchenko4a.brovary.org/opalyuvalniy-sezon-rozpochnetsya-vchasno/ "Опалювальний сезон розпочнеться вчасно") познаходили, тепер нарешті дійшли руки розповісти про плани щодо благоустрою парковки.
+![](/wp-content/uploads/2012/10/reserved-parking-01.jpg)[Кошторис підготували](http://shevchenko4a.brovary.org/proekt-koshtorisu-na-2013-rik/ "Проект кошторису на 2013 рік"), [документи для РЕСу](http://shevchenko4a.brovary.org/opalyuvalniy-sezon-rozpochnetsya-vchasno/ "Опалювальний сезон розпочнеться вчасно") познаходили, тепер нарешті дійшли руки розповісти про плани щодо благоустрою парковки.
 
 Перш за все хотілося б зазначити, що є територія, яка придатна для того, щоб за її рахунок розширити та покращини парковку і є бажання це зробити, але, як завжди, у ОСББ не вистачає коштів.
 

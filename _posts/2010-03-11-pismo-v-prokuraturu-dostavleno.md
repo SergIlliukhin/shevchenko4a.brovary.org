@@ -9,7 +9,7 @@ tags:
   - "прокуратура"
 ---
 
-![Доставка почты](http://shevchenko4a.brovary.org/wp-content/uploads/2010/03/mail_delivery-2.jpg "Доставка почты")После продолжительного и слегка затянувшегося молчания спешу сообщить, что наше [коллективное письмо в прокуратуру](http://shevchenko4a.brovary.org/kolektyvne-zvernennya-official-text/) и другие инстанции доставлено.
+![Доставка почты](/wp-content/uploads/2010/03/mail_delivery-2.jpg "Доставка почты")После продолжительного и слегка затянувшегося молчания спешу сообщить, что наше [коллективное письмо в прокуратуру](http://shevchenko4a.brovary.org/kolektyvne-zvernennya-official-text/) и другие инстанции доставлено.
 
 А конкретнее:
 

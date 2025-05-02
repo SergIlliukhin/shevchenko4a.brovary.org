@@ -18,4 +18,4 @@ tags:
 
 Ще раз нагадаємо новий номер рахунку: Р/рахунок **2600830015953** МФО 322669 - Броварське територіально відокремлене відділення (ТВБВ) філії Головного управління по м. Києву та Київській області АТ «Ощадбанк»
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/Kiyivska-Rus-300x225.png "Київська Русь")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/04/Kiyivska-Rus.png)
+[![](/wp-content/uploads/2012/04/Kiyivska-Rus.png "Київська Русь")](/wp-content/uploads/2012/04/Kiyivska-Rus.png "Київська Русь")

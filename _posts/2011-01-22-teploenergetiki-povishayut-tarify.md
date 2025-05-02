@@ -21,4 +21,4 @@ tags:
 
 Полный текст объявления: <!--more-->
 
-[![Повышение тарифов КП "Броваритеплоенергомережа"](/wp-content/uploads/2011/01/BrovaryTeploMereja.jpg "Повышение тарифов КП "Броваритеплоенергомережа"")](http://shevchenko4a.brovary.org/wp-content/uploads/2011/01/BrovaryTeploMereja.JPG "Повышение тарифов КП \"Броваритеплоенергомережа\"")
+[![Повышение тарифов КП "Броваритеплоенергомережа"](/wp-content/uploads/2011/01/BrovaryTeploMereja.jpg "Повышение тарифов КП "Броваритеплоенергомережа"")](/wp-content/uploads/2011/01/BrovaryTeploMereja.JPG "Повышение тарифов КП \"Броваритеплоенергомережа\"")

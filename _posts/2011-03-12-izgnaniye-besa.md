@@ -12,7 +12,7 @@ tags:
   - "фото"
 ---
 
-![Изгнание Беса](http://shevchenko4a.brovary.org/wp-content/uploads/2011/03/izgnaniye-besa.jpg "Изгнание Беса")_**Продолжение**, начало здесь: ["Железная хватка Темного Лорда"](http://shevchenko4a.brovary.org/jeleznaya-hvatka-temnogo-lorda/)_
+![Изгнание Беса](/wp-content/uploads/2011/03/izgnaniye-besa.jpg "Изгнание Беса")_**Продолжение**, начало здесь: ["Железная хватка Темного Лорда"](http://shevchenko4a.brovary.org/jeleznaya-hvatka-temnogo-lorda/)_
 
 Январь-февраль 2011 года стали переломными в нашей борьбе с Темным Лордом, который очень хотел заполучить в свою собственность нежилые помещения нашего дома и даже сумел оформить право собственности на эти помещения.
 

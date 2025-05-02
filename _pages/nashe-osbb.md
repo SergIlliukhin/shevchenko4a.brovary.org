@@ -3,7 +3,7 @@ title: "Наше ОСББ"
 date: 2010-06-15
 ---
 
-![Наше ОСББ](http://shevchenko4a.brovary.org/wp-content/uploads/2010/06/our-osbb-home.jpg "Наше ОСББ")Объединение Совладельцев Многоквартирного Дома (ОСББ - укр.) **"Шевченко 4-А"** [зарегистрировано](http://shevchenko4a.brovary.org/osbb-shevchenko4a-zaregistrirovano/) 20.05.2010 г.
+![Наше ОСББ](/wp-content/uploads/2010/06/our-osbb-home.jpg "Наше ОСББ")Объединение Совладельцев Многоквартирного Дома (ОСББ - укр.) **"Шевченко 4-А"** [зарегистрировано](http://shevchenko4a.brovary.org/osbb-shevchenko4a-zaregistrirovano/) 20.05.2010 г.
 
 Решение о создании ОСББ **"Шевченко 4-А"** и взятии дома на баланс [было принято](http://shevchenko4a.brovary.org/osbb-shevchenko-4-a-byt/) на общем собрании жильцов дома 22.04.2010 г.
 
