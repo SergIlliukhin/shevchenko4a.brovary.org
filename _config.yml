@@ -1,7 +1,7 @@
 title: Бровари, Шевченка 4А
 description: Сайт мешканців будинку
-baseurl: "/shevchenko4a.brovary.org" # the subpath of your site, e.g. /blog
-url: "https://sergilliukhin.github.io" # the base hostname & protocol for your site
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://shevchenko4a.brovary.org" # the base hostname & protocol for your site
 
 # Build settings
 markdown: kramdown
