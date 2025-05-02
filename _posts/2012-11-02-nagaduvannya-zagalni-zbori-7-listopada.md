@@ -7,7 +7,7 @@ tags:
   - "собрание"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/reminder-300x199.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/reminder.jpg)**Нагадування!**
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/reminder.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/reminder.jpg)**Нагадування!**
 
 Загальні збори членів ОСББ відбудуться 7 листопада 2012 року о 19:00. Всі члени ОСББ були попереджені про збори завчасно за 14 днів згідно Статуту ОСББ "Шевченко 4 А".
 

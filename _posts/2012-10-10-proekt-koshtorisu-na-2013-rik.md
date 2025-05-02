@@ -9,7 +9,7 @@ tags:
   - "финансы"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593-300x199.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg)Опубліковуємо проект кошторису ОСББ "Шевченко 4 А", який буде обговорюватись на [загальних зборах мешканців будинку](http://shevchenko4a.brovary.org/sklikannya-zagalnih-zboriv-osbb/ "Скликання загальних зборів ОСББ") 7 листопада 2012 року.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg)Опубліковуємо проект кошторису ОСББ "Шевченко 4 А", який буде обговорюватись на [загальних зборах мешканців будинку](http://shevchenko4a.brovary.org/sklikannya-zagalnih-zboriv-osbb/ "Скликання загальних зборів ОСББ") 7 листопада 2012 року.
 
 Переглянути та завантажити проект кошторису можна за посиланням "[**Кошторис ОСББ на 2013 рік**](https://docs.google.com/spreadsheet/ccc?key=0AhE2NQlPHqm_dENud241NC1Zejdab3RwUHcyYkloTlE "Кошторис ОСББ")"
 

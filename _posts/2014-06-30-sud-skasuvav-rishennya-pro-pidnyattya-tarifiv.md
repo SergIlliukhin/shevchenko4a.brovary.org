@@ -9,7 +9,7 @@ tags:
   - "тарифы"
 ---
 
-[![суд](http://shevchenko4a.brovary.org/wp-content/uploads/2014/06/sud-300x198.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2014/06/sud.jpg)**Броварський міськрайонний суд Київської області визнав недійсними рішення зборів ОСББ "Шевченко 4 А" від 27.12.2012 року.**
+[![суд](http://shevchenko4a.brovary.org/wp-content/uploads/2014/06/sud.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2014/06/sud.jpg)**Броварський міськрайонний суд Київської області визнав недійсними рішення зборів ОСББ "Шевченко 4 А" від 27.12.2012 року.**
 
 Згідно [протоколу зборів](http://shevchenko4a.brovary.org/tarifi-pidvishheno-protokol-zagalnih-zboriv-vid-27-grudnya-2012-roku/) ОСББ "Шевченко 4 А" від 27.12.2012 року, ухвалювались 3 питання: 1. Про прийняття будинку на баланс ОСББ; 2. Про затвердження нового кошторису ОСББ, починаючи з 2013 року; 3. Про включення до складу правління Липи Ю.В. (кв.98) та Дрижирук Л.А. (кв. 52);
 

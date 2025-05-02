@@ -8,7 +8,7 @@ tags:
   - "smeta"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593-300x199.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg)Оновлений проект кошторису ОСББ «Шевченко 4 А» з урахуванням змін, запропонованих на попередніх зборах 15 жовтня.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg)Оновлений проект кошторису ОСББ «Шевченко 4 А» з урахуванням змін, запропонованих на попередніх зборах 15 жовтня.
 
 Переглянути та завантажити проект кошторису можна за посиланням «[**Кошторис ОСББ на 2013 рік (оновлений)**](https://docs.google.com/spreadsheet/ccc?key=0AhE2NQlPHqm_dGxzeWFNUlBBS09mZHFWbUp5dlVsaUE "Кошторис ОСББ")»
 

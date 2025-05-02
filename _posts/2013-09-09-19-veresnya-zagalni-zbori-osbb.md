@@ -9,7 +9,7 @@ tags:
   - "осбб"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2013/09/IMAG0085-300x179.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/09/IMAG0085.jpg)**19 вересня 2013 року о 19:00 відбудуться загальні збори ОСББ "Шевченка 4-А"** - про це йдеться у оголошеннях правління ОСББ, розклеєних у будинку.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2013/09/IMAG0085.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2013/09/IMAG0085.jpg)**19 вересня 2013 року о 19:00 відбудуться загальні збори ОСББ "Шевченка 4-А"** - про це йдеться у оголошеннях правління ОСББ, розклеєних у будинку.
 
 **Порядок денний:**
 

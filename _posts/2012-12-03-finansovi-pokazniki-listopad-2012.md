@@ -9,7 +9,7 @@ tags:
   - "осбб"
 ---
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593-300x199.jpg "32593")Опубліковано [фінансові показники](http://shevchenko4a.brovary.org/buhgalteriya-osbb/) за листопад 2012 року.
+![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg "32593")Опубліковано [фінансові показники](http://shevchenko4a.brovary.org/buhgalteriya-osbb/) за листопад 2012 року.
 
 Надходження: **12687,69 грн** Витрати: **[14494,80 грн](http://shevchenko4a.brovary.org/buhgalteriya-osbb/rashody-osbb/)** Залишок на кінець місяця: **5982,40 грн**
 

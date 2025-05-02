@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/08/clock01m-300x300.gif "clock01m")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/08/clock01m.gif)УВАГА!
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/08/clock01m.gif "clock01m")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/08/clock01m.gif)УВАГА!
 
 З наступного тижня бухгалтер-паспортист прийматиме по середах (замість вівторків) з 08:00 до 10:00
 

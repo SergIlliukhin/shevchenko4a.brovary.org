@@ -9,7 +9,7 @@ tags:
 
 Бровары, Шевченко, 4а можно увидеть на карте мира:
 
-[![Google Maps](http://shevchenko4a.brovary.org/wp-content/uploads/2009/09/googleMaps-300x224.jpg "googleMaps")](http://shevchenko4a.brovary.org/house-on-world-map/)
+[![Google Maps](http://shevchenko4a.brovary.org/wp-content/uploads/2009/09/googleMaps.jpg "googleMaps")](http://shevchenko4a.brovary.org/house-on-world-map/)
 
 Для того, чтобы ознакомиться с месторасположением дома на Google Maps - <!--more--> нажмите сюда: [Шевченко, 4а на Google Maps](http://maps.google.com/maps/ms?ie=UTF8&hl=en&t=h&msa=0&msid=113661968341382373057.0004720d57f7ca861ae8f&ll=50.508719,30.773542&spn=0.002388,0.00456&z=17&source=embed) 
 

@@ -9,7 +9,7 @@ tags:
   - "otchet"
 ---
 
-![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593-300x199.jpg "32593")Опубліковано [фінансові показники](http://shevchenko4a.brovary.org/buhgalteriya-osbb/) за січень 2013 року.
+![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/32593.jpg "32593")Опубліковано [фінансові показники](http://shevchenko4a.brovary.org/buhgalteriya-osbb/) за січень 2013 року.
 
 Надходження: **13125,66 грн** Витрати: **[12814,75 грн](http://shevchenko4a.brovary.org/buhgalteriya-osbb/rashody-osbb/)** Залишок на кінець місяця: **5777,74 грн**
 

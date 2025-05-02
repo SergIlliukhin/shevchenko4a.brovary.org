@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/default-300x214.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/default.jpg)Сьогодні було завершено кількаденну перевірку діяльності ОСББ ревізійною комісією у розширеному складі: - Голова комісії - Мороз О.Й. - Дрижирук Л.А. - Доленко Н.В.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/default.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/11/default.jpg)Сьогодні було завершено кількаденну перевірку діяльності ОСББ ревізійною комісією у розширеному складі: - Голова комісії - Мороз О.Й. - Дрижирук Л.А. - Доленко Н.В.
 
 Перевірялась діяльність об'єднання за 2010 - 2012 роки. В ході перевірки жодних серйозних порушень знайдено не було.
 

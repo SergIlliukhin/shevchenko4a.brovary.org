@@ -9,7 +9,7 @@ tags:
   - "финансы"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/photo-300x195.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/photo.jpg)Станом на 1 вересня 2012 року розмір заборгованості мешканців зі сплати членських внесків до ОСББ становить **30892.82 грн**, що складає майже 3 місячних бюджети нашого ОСББ.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/photo.jpg)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/photo.jpg)Станом на 1 вересня 2012 року розмір заборгованості мешканців зі сплати членських внесків до ОСББ становить **30892.82 грн**, що складає майже 3 місячних бюджети нашого ОСББ.
 
 Повний перелік боржників [можна переглянути за посиланням](http://shevchenko4a.brovary.org/buhgalteriya-osbb/dolzhniki-osbb/).
 

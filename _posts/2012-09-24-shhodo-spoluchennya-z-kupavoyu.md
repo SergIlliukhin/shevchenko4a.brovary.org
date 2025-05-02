@@ -10,7 +10,7 @@ tags:
   - "kupava"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/IMG_9953-300x225.jpg "IMG_9953")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/IMG_9953.jpg)Думаю, багато хто помітив, що встановлення сходів між ЖК Купава та ОСББ Шевченко 4-А закінчено і пророблено дірку у паркані для проходу.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/IMG_9953.jpg "IMG_9953")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/IMG_9953.jpg)Думаю, багато хто помітив, що встановлення сходів між ЖК Купава та ОСББ Шевченко 4-А закінчено і пророблено дірку у паркані для проходу.
 
 "Кришували" процес депутати Броварської міської ради Петро Базишин та Вадим Андрієвський - мешканці ЖК Купава. Докладніше про те, як прибудинковий конфлікт мешканців мікрорайону депутат розсудив на власну користь [гарно описано на "Маєш Право Знати"](http://pravo-znaty.org.ua/pobutoviy-konflikt-meshkantsiv-mikrorayonu-deputat-rozsudiv-na-vlasnu-korist/).
 

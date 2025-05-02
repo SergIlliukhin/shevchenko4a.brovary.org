@@ -5,7 +5,7 @@ categories:
   - "general"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/golosovanie-300x225.jpg "голосування")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/golosovanie.jpg)Щойно я провів ревізію членів ОСББ станом на вересень 2012 року.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/golosovanie.jpg "голосування")](http://shevchenko4a.brovary.org/wp-content/uploads/2012/09/golosovanie.jpg)Щойно я провів ревізію членів ОСББ станом на вересень 2012 року.
 
 Засновниками ОСББ було 87 власників, які автоматично стали членами ОСББ. 5 з них продали квартири, тому перестали бути членами ОСББ. **Відповідно станом на сьогодні 82 власники є членами ОСББ.**
 

@@ -7,7 +7,7 @@ tags:
   - "собрание"
 ---
 
-[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/1301661928_timetable-300x300.png)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/1301661928_timetable.png)Оновлений порядок денний загальних зборів 7 листопада 2012 року. Деякі питання були видалені з порядку денного, деякі включені на попередніх зборах, які відбулись 15 жовтня.
+[![](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/1301661928_timetable.png)](http://shevchenko4a.brovary.org/wp-content/uploads/2012/10/1301661928_timetable.png)Оновлений порядок денний загальних зборів 7 листопада 2012 року. Деякі питання були видалені з порядку денного, деякі включені на попередніх зборах, які відбулись 15 жовтня.
 
 **Загальне**
 

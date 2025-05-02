@@ -9,7 +9,7 @@ tags:
   - "меркурий"
 ---
 
-[![Ответ от ДСК "Меркурий"](http://shevchenko4a.brovary.org/wp-content/uploads/2009/12/LetterFromMerkuriy-300x150.jpg "Ответ от ДСК "Меркурий"")](http://shevchenko4a.brovary.org/wp-content/uploads/2009/12/LetterFromMerkuriy.jpg "Ответ от ДСК \"Меркурий\"")В прошлом месяце жильцами нашего дома был поднят вопрос о [незаконном строительстве гаражей](http://shevchenko4a.brovary.org/garage-attack/) в непосредственной близости от дома. По этому поводу были направлены письма в ДСК "Меркурий" и городскую администрацию.
+[![Ответ от ДСК "Меркурий"](http://shevchenko4a.brovary.org/wp-content/uploads/2009/12/LetterFromMerkuriy.jpg "Ответ от ДСК "Меркурий"")](http://shevchenko4a.brovary.org/wp-content/uploads/2009/12/LetterFromMerkuriy.jpg "Ответ от ДСК \"Меркурий\"")В прошлом месяце жильцами нашего дома был поднят вопрос о [незаконном строительстве гаражей](http://shevchenko4a.brovary.org/garage-attack/) в непосредственной близости от дома. По этому поводу были направлены письма в ДСК "Меркурий" и городскую администрацию.
 
 На днях мы получили письменный ответ от руководства ДСК "Меркурий" по данному вопросу.
 
