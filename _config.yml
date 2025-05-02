@@ -21,13 +21,13 @@ defaults:
       type: "pages"
     values:
       layout: "page"
-      coverImage: "{{ page.coverImage }}"
+      coverImage: "/wp-content/uploads/2009/09/heading.jpg"
   - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-      coverImage: "{{ page.coverImage }}"
+      coverImage: "/wp-content/uploads/2009/09/heading.jpg"
       permalink: /:title/
   - scope:
       path: "404.md"
