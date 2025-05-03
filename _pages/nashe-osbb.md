@@ -3,63 +3,63 @@ title: "Наше ОСББ"
 date: 2010-06-15
 ---
 
-![Наше ОСББ](/wp-content/uploads/2010/06/our-osbb-home.jpg "Наше ОСББ")Объединение Совладельцев Многоквартирного Дома (ОСББ - укр.) **"Шевченко 4-А"** [зарегистрировано](http://shevchenko4a.brovary.org/osbb-shevchenko4a-zaregistrirovano/) 20.05.2010 г.
+![Наше ОСББ](/wp-content/uploads/2010/06/our-osbb-home.jpg "Наше ОСББ")Об'єднання Співвласників Багатоквартирного Будинку (ОСББ) **"Шевченко 4-А"** [зареєстровано](http://shevchenko4a.brovary.org/osbb-shevchenko4a-zaregistrirovano/) 20.05.2010 р.
 
-Решение о создании ОСББ **"Шевченко 4-А"** и взятии дома на баланс [было принято](http://shevchenko4a.brovary.org/osbb-shevchenko-4-a-byt/) на общем собрании жильцов дома 22.04.2010 г.
+Рішення про створення ОСББ **"Шевченко 4-А"** та взяття будинку на баланс [було прийнято](http://shevchenko4a.brovary.org/osbb-shevchenko-4-a-byt/) на загальних зборах мешканців будинку 22.04.2010 р.
 
-Дом будет принят на баланс ОСББ **"Шевченко 4-А"**, начиная с _(дата)_
+Будинок буде прийнято на баланс ОСББ **"Шевченко 4-А"**, починаючи з _(дата)_
 
 **Розрахунковий рахунок** 2600830015953 МФО 322669 - Броварське територіально відокремлене відділення (ТВБВ) філії Головного управління по м. Києву та Київській області АТ «Ощадбанк»
 
-### Офис ОСББ
+### Офіс ОСББ
 
-Офис ОСББ **"Шевченко 4-А"** располагается в [подвальном помещении](http://shevchenko4a.brovary.org/office-osbb-izuchayem-front-rabot/) под подъездом №3.
+Офіс ОСББ **"Шевченко 4-А"** розташований у [підвальному приміщенні](http://shevchenko4a.brovary.org/office-osbb-izuchayem-front-rabot/) під під'їздом №3.
 
-**Приемные дни:** Председатель Правления, Бухгалтер, Паспортист: _\- среда (08:00-10:00) - 2-я,4-я суббота (13:00-15:00)_,
+**Прийомні дні:** Голова Правління, Бухгалтер, Паспортист: _\- середа (08:00-10:00) - 2-га,4-та субота (13:00-15:00)_,
 
-### Правление ОСББ "Шевченко 4-А"
+### Правління ОСББ "Шевченко 4-А"
 
-> \* **Билобородый Владимир Андреевич** (тел. 067-404-78-70) - Председатель Правления;
+> \* **Білобородий Володимир Андрійович** (тел. 067-404-78-70) - Голова Правління;
 > 
-> **Email-адрес** Правления ОСББ: [![mailto:osbb](/wp-content/uploads/2010/06/osbb2.png "mailto:osbb")](osbb#)
+> **Email-адреса** Правління ОСББ: [![mailto:osbb](/wp-content/uploads/2010/06/osbb2.png "mailto:osbb")](osbb#)
 
-### Вестник ОСББ
+### Вісник ОСББ
 
-> Номера печатного издания **"Вестник ОСББ"**, которое распостраняется путем расклеивания в подъездах:
+> Номери друкованого видання **"Вісник ОСББ"**, яке поширюється шляхом розклеювання в під'їздах:
 > 
-> Выпуск №1 (от 21.05.2010) - [скачать](https://docs.google.com/fileview?id=0B15gOycbY2u7N2I0NGQ3OTktNzQwNC00ZmUxLTk2NzgtMTE1OThlOGZkMDk4&hl=ru)
+> Випуск №1 (від 21.05.2010) - [завантажити](https://docs.google.com/fileview?id=0B15gOycbY2u7N2I0NGQ3OTktNzQwNC00ZmUxLTk2NzgtMTE1OThlOGZkMDk4&hl=ru)
 > 
-> Выпуск №2 (от 11.08.2010) - [скачать](https://docs.google.com/fileview?id=0B15gOycbY2u7OWIxYTdjZmItZjAxYS00OTQ0LWJhMTEtNjcwYWM1ZTA1ODRk&hl=ru&authkey=CILxlRg)
+> Випуск №2 (від 11.08.2010) - [завантажити](https://docs.google.com/fileview?id=0B15gOycbY2u7OWIxYTdjZmItZjAxYS00OTQ0LWJhMTEtNjcwYWM1ZTA1ODRk&hl=ru&authkey=CILxlRg)
 > 
-> Выпуск №3 (от 14.09.2010) - [скачать](https://docs.google.com/leaf?id=0B15gOycbY2u7YTAxNWYyZTMtNDViOC00MGI1LWE5ZjAtNzhiYzcwMGNiNGIy&sort=name&layout=list&num=50)
+> Випуск №3 (від 14.09.2010) - [завантажити](https://docs.google.com/leaf?id=0B15gOycbY2u7YTAxNWYyZTMtNDViOC00MGI1LWE5ZjAtNzhiYzcwMGNiNGIy&sort=name&layout=list&num=50)
 > 
-> Выпуск №4 (от 14.10.2010) - [скачать](https://docs.google.com/fileview?id=0B15gOycbY2u7MTRjNzI3NzAtNzM0Yi00OTViLTg0MjAtOWI2YWUzNmVhZWM1&hl=ru)
+> Випуск №4 (від 14.10.2010) - [завантажити](https://docs.google.com/fileview?id=0B15gOycbY2u7MTRjNzI3NzAtNzM0Yi00OTViLTg0MjAtOWI2YWUzNmVhZWM1&hl=ru)
 > 
-> Выпуск №5 (от 21.01.2011) - [скачать](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_MjBkM2MwYTUtZWFiMC00NWYzLWEzMTgtNDNiNWJlMGU2YzZl&hl=ru)
+> Випуск №5 (від 21.01.2011) - [завантажити](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_MjBkM2MwYTUtZWFiMC00NWYzLWEzMTgtNDNiNWJlMGU2YzZl&hl=ru)
 > 
-> Выпуск №6 (от 21.03.2011) - [скачать](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_ZmFhMTQwYWEtODIyNS00MTliLWIxYzQtMDk2OTFkZmYyODRl&hl=en_GB&authkey=CM-Ml_cJ)
+> Випуск №6 (від 21.03.2011) - [завантажити](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_ZmFhMTQwYWEtODIyNS00MTliLWIxYzQtMDk2OTFkZmYyODRl&hl=en_GB&authkey=CM-Ml_cJ)
 > 
-> Выпуск №7 (от 22.09.2011) - [скачать](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_NzYyYzJiN2UtNDI0Yy00MThjLThlZWQtZDBlNjUxMGQwYmU3&hl=en_GB)
+> Випуск №7 (від 22.09.2011) - [завантажити](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_NzYyYzJiN2UtNDI0Yy00MThjLThlZWQtZDBlNjUxMGQwYmU3&hl=en_GB)
 > 
-> Выпуск №8 (от 26.01.2012) - [скачать](http://www.slideshare.net/sergIlliukhin/8-11282714)
+> Випуск №8 (від 26.01.2012) - [завантажити](http://www.slideshare.net/sergIlliukhin/8-11282714)
 > 
-> Выпуск №9 (от 08.05.2012) - [скачать](https://docs.google.com/open?id=0BxE2NQlPHqm_S1BneTN4YTdKVE0)
+> Випуск №9 (від 08.05.2012) - [завантажити](https://docs.google.com/open?id=0BxE2NQlPHqm_S1BneTN4YTdKVE0)
 
-### Учредительные документы ОСББ
+### Установчі документи ОСББ
 
-> Устав ОСББ "Шевченко 4-А" - [скачать](https://docs.google.com/fileview?id=0B15gOycbY2u7YTZiYzgyMzItYjJjYS00MDhlLTgxMDYtZjIxNWFiMjJlNDc2&hl=ru)
+> Статут ОСББ "Шевченко 4-А" - [завантажити](https://docs.google.com/fileview?id=0B15gOycbY2u7YTZiYzgyMzItYjJjYS00MDhlLTgxMDYtZjIxNWFiMjJlNDc2&hl=ru)
 > 
-> Свидетельство о государственной регистрации юридического лица - [посмотреть](http://lh4.ggpht.com/_rSr87wJ7xVQ/S_Yyl7LKNiI/AAAAAAAACiE/La8SBTviKEk/s800/ttt%20001.jpg)
+> Свідоцтво про державну реєстрацію юридичної особи - [переглянути](http://lh4.ggpht.com/_rSr87wJ7xVQ/S_Yyl7LKNiI/AAAAAAAACiE/La8SBTviKEk/s800/ttt%20001.jpg)
 
-### Решения общих собраний жильцов дома
+### Рішення загальних зборів мешканців будинку
 
-> Протокол общего собрания жильцов дома (от 22.04.2010) - [скачать](https://docs.google.com/fileview?id=0B15gOycbY2u7ZWU4NGEzOTctODU5MC00YzQ2LWJiZDctOGZhMjM2Y2JkMGY2&hl=ru)
+> Протокол загальних зборів мешканців будинку (від 22.04.2010) - [завантажити](https://docs.google.com/fileview?id=0B15gOycbY2u7ZWU4NGEzOTctODU5MC00YzQ2LWJiZDctOGZhMjM2Y2JkMGY2&hl=ru)
 > 
-> Утвердженная смета ОСББ (от 22.04.2010) - [скачать](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B15gOycbY2u7ZmRjMzgzMTMtZjJmMi00NTBkLTlkNTgtZjRhMzZkMjkxZWRi&hl=en_GB "Кошторис ОСББ")
+> Затверджений кошторис ОСББ (від 22.04.2010) - [завантажити](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0B15gOycbY2u7ZmRjMzgzMTMtZjJmMi00NTBkLTlkNTgtZjRhMzZkMjkxZWRi&hl=en_GB "Кошторис ОСББ")
 > 
-> Протокол общего собрания жильцов дома (от 04.08.2011) - [скачать](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_ZjY4ZjVkNjMtNGQwMC00ZmIzLTg2NmEtYWIxM2VkYWFiNWE2&hl=en_GB)
+> Протокол загальних зборів мешканців будинку (від 04.08.2011) - [завантажити](https://docs.google.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BxE2NQlPHqm_ZjY4ZjVkNjMtNGQwMC00ZmIzLTg2NmEtYWIxM2VkYWFiNWE2&hl=en_GB)
 
-### Протоколы заседаний Правления ОСББ
+### Протоколи засідань Правління ОСББ
 
 > \[hide\][Протокол №1/1](http://docs.google.com/fileview?id=0B15gOycbY2u7MGRjOTMyYzgtODM2OS00MDkzLTg0ZTMtY2YzMDlhYTVhY2E5&hl=ru&authkey=CP_F_dQM) від 22.04.2010 про обрання Голови Правління ОСББ;
 > 
